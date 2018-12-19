@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/2r37SFT'; // địa chirweb của mình
+	var url_popup = 'http://suamaytinhm.blogspot.com'; // địa chirweb của mình
 	
 	
 
