@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://suamaytinhm.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-Nu6nCLLs_zs/XBuR6A8nx3I/AAAAAAAAJZY/zDNu_lDZQBEC0BwANcJ540ALBMxjlXy-ACLcBGAs/s1600/baner.jpg' width='500px'/><br/>Noi Dung</a>. LH: 0984253925 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://suamaytinhm.blogspot.com' target='_blank'><img src='https://2.bp.blogspot.com/-Nu6nCLLs_zs/XBuR6A8nx3I/AAAAAAAAJZY/zDNu_lDZQBEC0BwANcJ540ALBMxjlXy-ACLcBGAs/s1600/baner.jpg' width='500px'/><br/>Noi Dung</a>. LH: 0984253925 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
